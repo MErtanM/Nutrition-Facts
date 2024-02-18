@@ -42,7 +42,7 @@ p{
 
 .bold {
   font-weight: 800;
-	
+
 .large{
 	height: 10px;
 }
@@ -64,6 +64,11 @@ p{
 
 .calories-info h2{
 	margin: 0;
-	
+	]
 
-}
+	.left-container p{
+		margin:-5px -2px;
+		font-size:2em;
+		font-weight:700;
+	
+	}
