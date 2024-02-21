@@ -80,3 +80,7 @@ p {
 .right{
   justify-content: flex-end;
 }
+
+.indent{
+  margin-right: 1em;
+}
