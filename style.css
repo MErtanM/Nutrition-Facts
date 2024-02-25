@@ -96,3 +96,7 @@ p {
 .double-indent no-divider{
   margin: -5px -2px;
 }
+.note{
+  font-size:0.6rem;
+  margin:5px 0;
+}
